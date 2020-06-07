@@ -7,5 +7,6 @@ package com.jiang_11.git;
 public class HelloGit {
     public static void mian(String[] args){
         System.out.println("Hello Git!");
+        System.out.println("更新1");
     }
 }
